@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "600177051350",
+    "project_id": "testingintern-39254",
+    "storage_bucket": "testingintern-39254.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600177051350:android:d876efc8f3d0a3662eab77",
+        "android_client_info": {
+          "package_name": "com.example.voicode_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkhD0_KT8pmcKDlT1znTl3V0Pupw_5K4c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
