@@ -3,6 +3,8 @@ import 'package:qr_code_scanner/qr_code_scanner.dart';
 import 'package:just_audio/just_audio.dart';
 
 class QRScanner extends StatefulWidget {
+  QRScanner(List<String> combinedData);
+
   @override
   _QRScannerState createState() => _QRScannerState();
 }
