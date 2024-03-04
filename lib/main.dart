@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'QR Code Generator',
+      title: 'QR Code Generatorr',
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
